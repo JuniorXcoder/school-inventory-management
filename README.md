@@ -1,4 +1,6 @@
 school inventory management
+database: db_alat.sql
+
 using:
 bootstrap
 php 7.1
