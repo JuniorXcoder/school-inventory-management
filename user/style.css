@@ -1,0 +1,32 @@
+body {
+	background-color: #CCC;
+	margin:80px 80px 100px 100px;
+}
+div#fixedheader {
+	position:fixed;
+	top:0px;
+	left:0px;
+	width:100%;
+	color:#CCC;
+	background:#333;
+	padding:20px;
+	text-align: center;
+	font-size: 200%;
+}
+
+div#fixedfooter {
+	position:fixed;
+	bottom:0px;
+	left:0px;
+	width:100%;
+	color:#CCC;
+	background:#333;
+	padding:8px;
+	text-align: center;
+	font-size: 100%
+}
+
+.text{
+	text-align: center;
+	font-size: 200%;
+}
